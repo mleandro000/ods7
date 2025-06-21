@@ -1,0 +1,10 @@
+# Ignorar a pasta com os dados brutos baixados
+dados_ons_parquet/
+
+# Ignorar arquivos de cache do Python que podem ser gerados
+__pycache__/
+
+# Ignorar arquivos específicos de teste ou com erros de nome
+Teste.py
+teste2.py
+*.py.py
